@@ -47,7 +47,6 @@ Pacote obrigatório: para compilar os programas, é necessário o pacote **gcc**
 ![alt text][img9]
 
 Pacotes sugeridos: além do gcc, há outros pacotes que podem adicionar funcionalidades interessantes. Algumas sugestões abaixo (procure na janela search):
-- **gdb**: debugger de programas. Muito útil, porém requer realizar algum tutorial para aprender a utilizar. Há inúmeros tutoriais disponíveis na rede mundial, como [este](https://www.cs.umd.edu/~srhuang/teaching/cmsc212/gdb-tutorial-handout.pdf). Pacote está disponível na categoria **Devel**
 - **openssh**: permite fazer conexão remota. Disponível na categoria **Net**
 - **wget**: faz o download de arquivos da Web pela linha de comando. Disponível na categoria **Web**.
 
